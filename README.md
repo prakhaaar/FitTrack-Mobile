@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/react-native-fitness-app)
@@ -47,3 +48,6 @@ If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.co
 ### License
 
 This project is **free to use** and does not contain any license.
+=======
+# FitTrack-Mobile
+>>>>>>> e2ac868d6ab33c9d561e3c5c92c2c03d2e2d84c8
